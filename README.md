@@ -21,6 +21,11 @@ Support Platforms
 - Linux
 - Window (Cygwin)
 
+Requirements
+--
+- [swfmill](https://github.com/djcsdy/swfmill)
+   - for linux `apt-get install swfmill`
+   - for macosx `brew install swfmill`
 
 Usage 
 --
