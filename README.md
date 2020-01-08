@@ -1,6 +1,6 @@
 ### SWFPFinder (beta v.)
 
-SWFPFinder is an open source bash script designed to discovery the potential swf parameters on the webapps.
+SWFPFinder is a simple and open source bash script designed to discovery the potential swf parameters on the webapps.
 
 Install
 --
